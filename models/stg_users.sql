@@ -1,0 +1,1 @@
+ELECT id AS user_id FROM raw_users;
