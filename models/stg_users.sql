@@ -1,1 +1,1 @@
-SELECT id, name, phone FROM raw_users;
+SELECT id as user_id, name, phone FROM raw_users;
