@@ -1,0 +1,1 @@
+SELECT id, name, phone FROM raw_users;
